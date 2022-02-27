@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.map-container {
+  height: 400px;
+}
+
+.marker-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.marker-button img {
+  width: 20px;
+  height: 20px;
+  background-color: rgb(225, 112, 217);
+}
